@@ -4,3 +4,4 @@ and authentication system. Registered users will have the ability to post, edit 
 Alchemy, JQUERY, CSS, Java Script, and OAUTH 2 to create an Item catalog website.
 Installation
 1.Virtual Box
+2.Vagrant
