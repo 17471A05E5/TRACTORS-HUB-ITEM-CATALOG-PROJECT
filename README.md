@@ -5,3 +5,4 @@ Alchemy, JQUERY, CSS, Java Script, and OAUTH 2 to create an Item catalog website
 Installation
 1.Virtual Box
 2.Vagrant
+3.python 3
